@@ -5,7 +5,7 @@
 * git ([tutorial](https://gitbook.tw/))
 
 ## Basic Math (optional)
-* Probability Theory ([Chinese Video baidu link](链接：https://pan.baidu.com/s/1zJvBAPasK1RiHiZ0zJ81JA)) [code：1utv]
+* Probability Theory ([Chinese Video baidu link](https://pan.baidu.com/s/1zJvBAPasK1RiHiZ0zJ81JA)) [code：1utv]
 * Matrix Analysis ([Chinese Video baidu link](https://pan.baidu.com/s/1Ey6OhReEATLz7oAcPI2_zg)) [code: dc06]
 * Machine Learning: A Probabilistic Perspective ([`Homepage`](https://www.cs.ubc.ca/~murphyk/MLbook/))
 
