@@ -1,5 +1,8 @@
 # deep-learning-tutorial
 
+## Code
+* python numpy ([csdn](https://blog.csdn.net/minione_2016/article/details/53261273))
+
 ## Tools
 * pycharm/docker/tmux/vim/git ([zhihu link](https://zhuanlan.zhihu.com/p/112360461))
 * git ([tutorial](https://gitbook.tw/))
@@ -19,6 +22,10 @@
 * **Feifei Li (Stanford)'s Computer Vision (CS231n)** [`Homepage`](http://cs231n.stanford.edu/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 ) [`Bilibili`](https://www.bilibili.com/video/av13260183?from=search&seid=14364502991437979266)
 
+## Deeplearning for pytorch
+* Pytorch ([Chinese Video baidu link](https://pan.baidu.com/s/1clHOHIKKtvGrwpIuNUTeCQ)) [code：qs27]
+* Deep learning theory and pytorch ([Chinese Video baidu link](https://pan.baidu.com/s/1W4TgMVPWkc1WBr5TVh6wrQ)) [code：fuak]
+
 ## Basic Package
 * scipy-family (numpy, scipy, pandas, matplotlib, etc.)
 * scikit-learn (for out-of-box ML tools, models, metrics, etc.)
@@ -32,7 +39,8 @@
 
 * **Hung-yi Lee (NTU)'s Deep Learning** [`Homepage`](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9) [`Bilibili`](https://www.bilibili.com/video/av9770302/)
 
-## Advanced
+
+## Advanced （optional）
 
 * **Yida Xu (UTS)'s Probabilities and Machine Learning** video link: [`Youtube`](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q/feed) [`Bilibili`](https://www.bilibili.com/video/av12802062)
 * **Hung-yi Lee (NTU)'s GAN 2018** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
